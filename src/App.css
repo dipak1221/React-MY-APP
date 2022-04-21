@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.blank{
+  color:rgb(11, 7, 20);
+}
+
+.container{
+  margin-left: 15px ;
+}
+
+.TextForm-style,
+.AboutUs-style{
+  margin:auto;
+  width:70%;
+}
